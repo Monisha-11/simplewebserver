@@ -77,8 +77,8 @@ httpd.serve_forever()
 ![CLIENTSIDEOUTPUT](./Clientside.png)
 
 ### SERVER SIDE OUTPUT:
-![SERVERSIDEOUTPUT](./serverside 1.png)
-![SERVERSIDEOUTPUT](./serverside 2.png)
+![SERVERSIDEOUTPUT](./serverside1.png)
+![SERVERSIDEOUTPUT](./serverside2.png)
 
 
 
